@@ -1,4 +1,4 @@
 # Blockchain
-Blockchain documents, pdf and papers related to different domain.
+Blockchain documents, pdf and papers related to different domains.
 
 
